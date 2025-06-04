@@ -1,5 +1,5 @@
 # MARK-EK(Encoder Kit)
-[![License: MARK-Custom](https://img.shields.io/badge/license-MARK--Custom-blue.svg)](./LICENSE.mark)
+[![License: MARK-Custom](https://img.shields.io/badge/license-MARK--Custom-blue.svg)](./LICENSE)
 ## 📄 License
 
 This project is licensed under a **custom license** known as the **MARK License**.
