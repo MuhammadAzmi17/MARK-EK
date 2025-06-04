@@ -1,5 +1,5 @@
 # MARK-EK(Encoder Kit)
-[![License: Apache-2.0](https://img.shields.io/badge/license-Apache-2.0-blue.svg)](./LICENSE)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 ## 📄 License
 
 This project is licensed under a **custom license** known as the **MARK License**.
